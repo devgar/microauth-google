@@ -23,7 +23,7 @@
     "xo": "^0.18.2"
   },
   "peerDependencies": {
-    "micro": "^8.0.0"
+    "micro": "^9.0.0"
   },
   "xo": {
     "spaces": 2,
